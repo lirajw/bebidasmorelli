@@ -1,0 +1,35 @@
+footer {
+    height: 80px;
+    width: 100%;
+    background-color: #000000;
+    color: #ffffff;
+
+    display: flex;    
+    
+}
+
+footer img {
+    height: 450px;
+    width: 100%;
+}
+
+footer a, footer p {
+    line-height: 80px;
+    text-decoration: none;
+    color: #ffffff;
+    margin: 0px 10px 0px 0px;
+}
+
+.links {
+    height: 80px;
+    width: auto;
+
+}
+
+.sistema {
+    height: 80px;
+    width: auto;
+
+    position: absolute;
+    right: 0px;
+}

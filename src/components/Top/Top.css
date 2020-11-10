@@ -1,0 +1,77 @@
+#top {
+
+    height: auto;
+    min-width: 500px;
+    width: 100%;
+    background-color: #fff45c;
+    color: #000000;
+
+   
+
+    display: flex;
+    ;
+}
+
+.img {
+    height: 500px;
+    width: 40%;
+
+    margin: 15px 0px 0px 15px;
+}
+
+.img img{
+    height: 90%;
+    width: 300px;    
+    margin: 0 auto;
+    display: block;
+    float: none;
+}
+
+.titulo{
+    height: 500px;
+    width: 60%;    
+    position: absolute;
+    left: 40%;
+}
+
+#contato {
+    height: 50px;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: right;
+
+}
+
+#contato p {
+    margin-right: 3px;
+}
+
+.merchan {
+    height: 100px;
+    margin: 5px 0px 0px 0px;
+
+    text-align: center;
+}
+
+.merchan h2 {
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.merchan p {
+    font-size: 30px;
+    font-family: sans-serif
+}
+
+
+.merchanTexto {
+    height: 270px;
+    margin-top: 80px;
+
+    font-family: sans-serif;
+}
+
+.merchanTexto p {
+    margin: 10px 0px 5px 65px;
+    font-size: 35px;
+}
